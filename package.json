@@ -1,0 +1,40 @@
+{
+    "name": "vscode-extension-collection-k8adev",
+    "displayName": "Extension Collection by @k8adev",
+    "description": "A collection of extensions to custom Visual Studio Code choose by @k8adev",
+    "version": "0.1.0",
+    "publisher": "k8adev",
+    "author": {
+        "name": "Keit Oliveira"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/k8adev/vscode-extension-collection-k8adev"
+    },
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "VSCode",
+        "Visual Studio Code",
+        "Front-End",
+        "Frontend",
+        "Web Development",
+        "Web",
+        "Customization",
+        "Theme",
+        "Icons"
+    ],
+    "extensionPack": [
+        "keitoliveira.front-end-productivity-tools",
+        "hsnazar.hyper-term-theme",
+        "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+        "rid9.datetime",
+        "pkief.material-icon-theme",
+        "equinusocio.vsc-material-theme-icons",
+        "davidgabrieloliveira.mussumips"
+    ]
+}
